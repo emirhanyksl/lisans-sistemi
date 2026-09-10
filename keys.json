@@ -1,14 +1,14 @@
 [
   {
     "Key": "SIFRE123",
-    "Used": false,
-    "HWID": "",
+    "Used": true,
+    "HWID": "5512031204312031023",
     "ExpiryDate": ""
   },
   {
     "Key": "VIP-TEST-KEY",
-    "Used": false,
-    "HWID": "",
+    "Used": true,
+    "HWID": "5512031204312031023",
     "ExpiryDate": ""
   }
 ]
