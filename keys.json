@@ -15,10 +15,10 @@
   },
   {
     "Key": "AEGIS-7821-K9X2",
-    "Used": false,
-    "HWID": "",
+    "Used": true,
+    "HWID": "EMRE",
     "ExpiryDate": "2026-09-24",
-    "Owner": "Henüz verilmedi"
+    "Owner": "EMRE"
   },
   {
     "Key": "VALOR-4450-M8L4",
